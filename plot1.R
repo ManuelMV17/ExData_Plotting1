@@ -35,7 +35,7 @@ datos <- cbind(tiempo, datos)
 datos$tiempo <- as.POSIXct(tiempo)
 
 
-## It says Thurs, Fri and Sat because it is the Spanish for 
+## It says jue., vie. and sáb because it is the Spanish for 
 ## Thursday, Friday and Saturday. System default value.
 
 
